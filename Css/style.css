@@ -1,3 +1,16 @@
+.bg_primary {
+	background-color: #0894EC;
+}
+.bg_success {
+	background-color: #4CD964;
+}
+.card-content-inner {
+	color: #fff;
+}
+/* 首页卡片颜色 */
+.color_white {
+	color: white;
+}
 /* 设置页面跳转的样式 */
 div .load_page {
 	display: block;
